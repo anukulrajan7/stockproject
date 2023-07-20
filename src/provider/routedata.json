@@ -1,0 +1,34 @@
+{
+  "route": [
+    {
+      "path": "/",
+      "route": "Home"
+    },
+    {
+      "path": "/",
+      "route": "about"
+    },
+    {
+      "path": "/",
+      "route": "invest"
+    },
+    {
+      "path": "/",
+      "route": "list"
+    },
+    {
+      "path": "/",
+      "regulation": "regulation"
+    },
+    {
+      "path": "/",
+      "route": "trade"
+    },
+    {
+      "path": "/market",
+      "route": "Market data"
+    }
+  ],
+  "rate": [{ "sensex": 19.215 }, { "lowsensex": 82.4 }, {"date":"10-07-23"}],
+  "currency": [{ "sign":"usdinr","company":"futures"},{"date":"11-07-23","price":"90 (0.42%)"},{"date":"11-07-23" }]
+}

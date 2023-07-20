@@ -1,0 +1,45 @@
+{
+    "tools": [
+      {
+        "name": "Pre-Open Market",
+        "description": "A Pre-open session is a pre-phase before the normal market actually opens up for trading. Pre-open is a session to discover opening price and to absorb the volatility in prices of security."
+      },
+      {
+        "name": "TAME Charts",
+        "description": "TAME(Technical Analysis Made Easy) is a charting technique and analysis tool to measure market movements with the help of indicators. TAME provides an exhilarating experience with its inbuilt indicators that make analysis simple and easy."
+      },
+      {
+        "name": "Option Chain",
+        "description": "An option chain provides analytical depth on understanding how options contracts at various strikes arranged in the order of 'in-the-money', 'at-the-money', and 'out-of-money' are faring."
+      },
+      {
+        "name": "Equity Derivatives",
+        "description": "Equity derivatives are financial instruments whose value is based on the underlying equity security. They are used for hedging, speculation, and arbitrage opportunities in the stock market."
+      },
+      {
+        "name": "Currency Derivatives",
+        "description": "Currency derivatives are financial contracts whose value is derived from the underlying currency exchange rates. They are used to manage foreign exchange risk and speculate on currency movements."
+      },
+      {
+        "name": "Corporate Filings",
+        "description": "All companies are required to inform the exchange about happenings/changes in their operations. Get Shareholding patterns, corporate announcements, board meetings, insider trading data, and other corporate filings here."
+      },
+      {
+        "name": "Commodities Market",
+        "description": "NSE has started trading in commodities starting 30 Nov 2018. View data from the commodities market. A new option to diversify your investments."
+      },
+      {
+        "name": "Products",
+        "description": "NSE has different offerings in the capital market, derivatives, and debt market to help investors diversify their portfolio and invest in the market smartly. Learn about products being offered by NSE."
+      },
+      {
+        "name": "MYNSE Login",
+        "description": "My NSE is a personalized Portfolio Manager that allows you to create and track your portfolio online against live market rates. This is a free service. You need to register to create and access your personalized portfolio. You can change your password and update your profile after you log-in using the password."
+      },
+      {
+        "name": "Margin Calculator",
+        "description": "The Equity Margin Calculator is a tool that allows you to input the symbols of stocks traded in the CM market and get an indicative understanding of the margin requirements for each position. For the actual margin requirements – please get in touch with your registered broker/trader or access the latest circulars on Margins."
+      }
+    ]
+  }
+  

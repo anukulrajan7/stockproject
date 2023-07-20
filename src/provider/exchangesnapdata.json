@@ -1,0 +1,21 @@
+{
+    "exchange_snapshot": {
+      "timestamp": "20-Jul-2023 16:00:00 IST",
+      "market_cap_in_lakhs": {
+        "equity": "87,30,74,43,331.29",
+        "debt": "74,26,153.62"
+      },
+      "fii_fpi_net_value_in_cr": {
+        "current_value": "3,370.90",
+        "change": "-193.02"
+      },
+      "advances_declines_unchanged": {
+        "advances": 1185,
+        "declines": 1106,
+        "unchanged": 110
+      },
+      "total_securities": 2401,
+      "ad_ratio": "1.07"
+    }
+  }
+  

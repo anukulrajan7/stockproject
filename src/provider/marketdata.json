@@ -1,0 +1,20 @@
+{
+    "live_analysis": {
+      "timestamp": "20-Jul-2023 15:33:25 IST",
+      "current_value": "19,979.15",
+      "high": {
+        "value": "19,991.85",
+        "change": "146.00",
+        "percentage_change": "0.74%"
+      },
+      "open": "19,831.70",
+      "low": "19,758.40",
+      "previous_close": "19,833.15",
+      "volume": "2,746.99 Lakhs",
+      "value_in_lakhs": "30,62,255.94 Lakhs",
+      "ffm_cap_in_lakhs": "87,75,80,796.70 Lakhs",
+      "52_week_low": "16,438.75",
+      "52_week_high": "19,991.85"
+    }
+  }
+  

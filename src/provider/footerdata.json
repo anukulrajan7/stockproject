@@ -1,0 +1,49 @@
+{
+  "route": [
+    {
+      "name": "About NSE",
+      "subroutes": [
+        "About Us",
+        "Structure & Key Personnel",
+        "Investor Relations",
+        "Awards and Recognitions",
+        "Regulations",
+        "Event Gallery",
+        "Media",
+        "Holidays",
+        "Careers",
+        "Contact Us"
+      ]
+    },
+    {
+      "name": "NSE Group Companies",
+      "subroutes": [
+        "NSE Academy",
+        "NSE Clearing",
+        "NSE Data & Analytics",
+        "NSE Foundation",
+        "NSE Indices",
+        "NSE International Exchange",
+        "NSE International Clearing",
+        "NSE Investments",
+        "NSEIT",
+        "View all"
+      ]
+    },
+    {
+      "name": "Products & Services",
+      "subroutes": [
+        "Equity Market",
+        "Indices",
+        "Emerge Platform",
+        "Mutual Funds",
+        "Equity Derivatives",
+        "Currency Derivatives",
+        "Commodity Derivatives",
+        "Interest Rate Derivatives",
+        "Fixed Income and Debt",
+        "Public Issues"
+      ]
+    }
+  ]
+}

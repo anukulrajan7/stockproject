@@ -1,0 +1,90 @@
+{
+    
+
+      "categories": [
+        {
+          "name": "Equity",
+          "data": {
+            "intraday_trade_statistics": {
+              "timestamp": "20-Jul-2023 16:00:00 IST",
+              "volume_lakhs": "33,737.52",
+              "value_lakhs": "74,26,153.62"
+            },
+            "end_of_day_trade_statistics": {
+              "timestamp": "20-Jul-2023 00:00:00 IST",
+              "no_of_trades": "2,20,77,922",
+              "volume_lakhs": "33,720.41",
+              "value_rs_cr": "74,112.46"
+            }
+          }
+        },
+        {
+          "name": "ETFs",
+          "data": {
+            "intraday_trade_statistics": {
+              "timestamp": "20-Jul-2023 16:00:23 IST",
+              "volume_lakhs": "479.33",
+              "value_lakhs": "56,005.35"
+            }
+          }
+        },
+        {
+          "name": "MFSS",
+          "data": {
+            "trade_statistics": {
+              "timestamp": "19-Jul-2023",
+              "orders": {
+                "subscription": {
+                  "no_of_orders": 60979,
+                  "value_lakhs": 59336.23
+                },
+                "redemption": {
+                  "no_of_orders": 45271,
+                  "value_lakhs": 44981.49
+                },
+                "total": {
+                  "no_of_orders": 106250,
+                  "value_lakhs": 104317.71
+                }
+              },
+              "note": "*Approximate Value (Based on last available NAV)",
+              "final_details_note": "#Final Subscription and redemption details for 19-Jul-2023"
+            }
+          }
+        },
+        {
+          "name": "SLBs",
+          "data": {
+            "trade_statistics": {
+              "timestamp": "19-Jul-2023",
+              "orders": {
+                "subscription": {
+                  "no_of_orders": 60979,
+                  "value_lakhs": 59336.23
+                },
+                "redemption": {
+                  "no_of_orders": 45271,
+                  "value_lakhs": 44981.49
+                },
+                "total": {
+                  "no_of_orders": 106250,
+                  "value_lakhs": 104317.71
+                }
+              },
+              "note": "*Approximate Value (Based on last available NAV)",
+              "final_details_note": "#Final Subscription and redemption details for 19-Jul-2023"
+            }
+          }
+        },
+        {
+          "name": "SGB",
+          "data": "PLACEHOLDER_SGB_DATA"
+        },
+        {
+          "name": "SME",
+          "data": "PLACEHOLDER_SME_DATA"
+        }
+      ]
+    }
+  
+  
