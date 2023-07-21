@@ -5,7 +5,7 @@ import MarketInfo from "../../components/Market"
 import Exchange from "../../components/Exchange"
 
 import DataTable from '../../components/Data'
-import TurnOver from '../../components/turnover'
+import TurnOver from '../../components/Turntransaction'
 function Home() {
   return (
     <main className='w-full min-h-screen flex flex-col'>

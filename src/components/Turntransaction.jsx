@@ -6,7 +6,7 @@ import MFSS from "./category/MFSS.jsx";
 import SLBs from "./category/SLBs.jsx";
 import SGB from "./category/SGB.jsx";
 import SME from "./category/SME.jsx"
-function TurnOver() {
+function Turntransaction() {
   const [categories, setCategory] = useState(data.categories[0]);
   console.log(data.categories[0])
   
@@ -39,4 +39,4 @@ function TurnOver() {
   );
 }
 
-export default TurnOver;
+export default Turntransaction;

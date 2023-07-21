@@ -1,6 +1,6 @@
 import React from 'react'
 import marketdata from "../provider/marketdata.json"
-import { makeStyles } from '@mui/material'
+
 function market() {
   return (
    <aside className='w-[50%] py-4 flex px-4 flex-col '>
