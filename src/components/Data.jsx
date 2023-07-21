@@ -2,7 +2,7 @@ import React from "react";
 import plateformwise from "../provider/plateformwise.json"
 
 const DataTable = () => {
-  const { name, data,timestamp,total } = plateformwise.platform_wise;
+  const { name, data,total } = plateformwise.platform_wise;
 
   return (
     <div className="p-6">

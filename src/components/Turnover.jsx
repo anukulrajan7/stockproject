@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import data from "../provider/turnover.json";
 import Equity from "./category/Equity";
 import ETFs from "./category/ETFs.jsx";

@@ -1,8 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import foterdata from "../provider/footerdata.json"
-import { Container, Typography } from '@mui/material'
-import Grid from '@mui/material/Unstable_Grid2';
+
 function Footer() {
   return (
     <footer className='w-full bg-indigo-500 py-10 items-center px-4 shadow-md shadow-indigo-500 '>

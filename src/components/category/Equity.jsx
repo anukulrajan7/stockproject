@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../../provider/turnover.json"
+
 function Equity({ data }) {
   return (
     <div className="flex w-full bg-white gap-5 px-4 py-3 justify-between">
