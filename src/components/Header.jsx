@@ -38,8 +38,8 @@ function Header() {
       </div>
       <nav className="w-full bg-indigo-600 flex justify-center items-center py-3">
         <ul className="flex text-white font-serif  w-[50%] mx-auto justify-between text-[20px] gap-8 capitalize">
-            {routedata.route.map((routes)=>{
-                return <Link to={routes.path}>{routes.route}</Link>
+            {routedata.route.map((routes,i)=>{
+                return <Link key={i} to={routes.path}>{routes.route}</Link>
             })}
         </ul>
       </nav>

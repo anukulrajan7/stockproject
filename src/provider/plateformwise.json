@@ -1,0 +1,28 @@
+{
+    "platform_wise": {
+      "name": "Platform Wise Turnover - Debt Securities",
+      "timestamp": "21-Jul-2023 13:36:19 IST",
+      "data": [
+        {
+          "platform": "CM Platform",
+          "no_of_trades": "7,33,541",
+          "value_lakhs": "981.50"
+        },
+        {
+          "platform": "Debt Platform",
+          "no_of_trades": "1",
+          "value_lakhs": "1,000.00"
+        },
+        {
+          "platform": "CBRICS Platform",
+          "no_of_trades": "126",
+          "value_lakhs": "2,16,304.02"
+        }
+      ],
+      "total": {
+        "no_of_trades": "7,33,668",
+        "value_lakhs": "2,18,285.52"
+      }
+    }
+  }
+  

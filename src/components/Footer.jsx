@@ -9,12 +9,12 @@ function Footer() {
         <section className='lg:w-[80%] items-center justify-between mx-auto flex gap-2 py-4'>
             <div className='grid grid-cols-3 gap-5 justify-start items-center'>
                         {foterdata.route.map((data)=>{
-                        return <div className='flex flex-col gap-6'>
+                        return <div className='flex flex-col gap-6'  key={data.name}>
                              <h1 className='text-xl text-white border-b-[2px] border-b-slate-700 py-2 w-fit' >{data.name}</h1>
                               <div className='flex flex-col gap-2'>
                                   {
-                                    data.subroutes.map((subroutes)=>{
-                                        return <Link to= "/"  className='text-[18px] text-white font-serif font-semibold'> {subroutes}</Link>
+                                    data.subroutes.map((subroutes,i)=>{
+                                        return <Link to= "/" key={i}  className='text-[18px] text-white font-serif font-semibold'> {subroutes}</Link>
                                     })
                                   }
                               </div>

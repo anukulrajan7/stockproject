@@ -3,7 +3,9 @@ import Tools from "../../components/Tool"
 import StockData from "../../components/Stock"
 import MarketInfo from "../../components/Market"
 import Exchange from "../../components/Exchange"
-import TurnOver from "../../components/Turnover"
+
+import DataTable from '../../components/Data'
+import TurnOver from '../../components/turnover'
 function Home() {
   return (
     <main className='w-full min-h-screen flex flex-col'>
@@ -12,7 +14,10 @@ function Home() {
         <StockData/>
         </div>
         <Exchange/>
-        <TurnOver/>
+         <div className='flex lg:w-[80%] mx-auto py-4 justify-between'>
+            <TurnOver/>
+            <DataTable/>
+         </div>
          <Tools/>
     </main>
   )

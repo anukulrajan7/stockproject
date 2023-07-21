@@ -1,5 +1,6 @@
 import React from 'react'
 import data from "../provider/exchangesnapdata.json"
+
 function index() {
   return (
     <div className='flex lg:w-[80%] flex-col mx-auto shadow-md rounded-sm py-3 gap-4 my-2'>
@@ -24,6 +25,7 @@ function index() {
                 <p>{data.exchange_snapshot.total_securities}</p>
                 <p>{data.exchange_snapshot.ad_ratio}</p>
               </div>
+     
         </div>
     </div>
   )

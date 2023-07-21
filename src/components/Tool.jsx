@@ -8,7 +8,7 @@ function Tools() {
                <div className="cards grid-cols-3 grid-rows-4 grid gap-3">
                    {
                     toolsdata.tools.map((item)=>{
-                        return <div className=' flex flex-col rounded-md gap-4 w-full overflow-hidden px-4 py-3 bg-white shadow-md shadow-gray-300 '>
+                        return <div key={item.name} className=' flex flex-col rounded-md gap-4 w-full overflow-hidden px-4 py-3 bg-white shadow-md shadow-gray-300 '>
                                 <h2 className='text-indigo-600 text-2xl font-bold font-serif'>{item.name}</h2>
                                 <p className='text-[18px] ' >{item.description}</p>
                         </div>
