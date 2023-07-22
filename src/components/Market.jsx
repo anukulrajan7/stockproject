@@ -3,7 +3,7 @@ import marketdata from "../provider/marketdata.json"
 
 function market() {
   return (
-   <aside className='w-[50%] py-4 flex px-4 flex-col '>
+   <aside className=' w-full lg:w-[50%] py-4 flex px-4 flex-col '>
         <h2 className='text-indigo-500 text-xl font-bold'>Go live</h2>
          <div className='w-full shadow-md shadow-gray-400   justify-center items-center flex flex-col'>
                 <div className='flex flex-col gap-2 bg-gray-300 w-full px-4 py-2'>

@@ -41,7 +41,7 @@ function stockprice() {
         
       };
   return (
-    <div className='w-[70%] py-8 flex items-center justify-center'>
+    <div className=' w-full lg:w-[70%] py-8 flex px-5 items-center justify-center'>
         <HighchartsReact highcharts={Highcharts} options={options} />
     </div>
   )

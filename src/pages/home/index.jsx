@@ -9,12 +9,12 @@ import TurnOver from '../../components/Turntransaction'
 function Home() {
   return (
     <main className='w-full min-h-screen flex flex-col'>
-        <div className='flex gap-5 justify-between w-[80%] mx-auto'>
+        <div className='flex flex-col lg:flex-row gap-5 justify-between  w-full lg:w-[80%] mx-auto'>
           <MarketInfo/>
         <StockData/>
         </div>
         <Exchange/>
-         <div className='flex lg:w-[80%] mx-auto py-4 justify-between'>
+         <div className='flex w-full flex-col lg:flex-row lg:w-[80%] mx-auto py-4 justify-between'>
             <TurnOver/>
             <DataTable/>
          </div>

@@ -2,7 +2,7 @@ import React from "react";
 
 function Equity({ data }) {
   return (
-    <div className="flex w-full bg-white gap-5 px-4 py-3 justify-between">
+    <div className="flex flex-col lg:flex-row w-full bg-white gap-5 px-4 py-3 justify-between">
       
         <div className="flex gap-5 flex-col items-start px-4 py-2 ">
           <h1 className="text-xl font-serif font-bold text-indigo-500">{data.intraday_trade.heading}</h1>
